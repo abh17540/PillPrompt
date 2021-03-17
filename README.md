@@ -24,7 +24,7 @@ An app to manage personal medication
 - Users can set a profile picture
 ## Screens
 - Load
-- Login
+- Login 
 - Signup page
 - List of medication
 - Add medication
